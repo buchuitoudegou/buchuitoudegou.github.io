@@ -18,8 +18,9 @@ Besides, I'm recently taking part in developing the [TiDB Cloud](https://tidbclo
 I'm currently looking for a PhD opportunity researching software system, database system, or data processing system. Please contact me if you are interested in my work.
 
 If you are willing to take a close glimpse of my work:
-1. [PR in TiFlow](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+author%3Abuchuitoudegou+is%3Aclosed)
-2. [PR in TiDB](https://github.com/pingcap/tidb/pulls?q=is%3Apr+author%3Abuchuitoudegou+is%3Aclosed)
+1. [github profile](https://github.com/buchuitoudegou)
+2. [PR in TiFlow](https://github.com/pingcap/tiflow/pulls?q=is%3Apr+author%3Abuchuitoudegou+is%3Aclosed)
+3. [PR in TiDB](https://github.com/pingcap/tidb/pulls?q=is%3Apr+author%3Abuchuitoudegou+is%3Aclosed)
 
 ### Contact
 liujunf9@gmail.com
