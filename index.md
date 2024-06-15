@@ -10,7 +10,7 @@ I'm a phd student at [Nanyang Technological University (NTU)](https://www.ntu.ed
 
 **Structural Designs Meet Optimality: Exploring Optimized LSM-tree Structures in A Colossal Configuration Space**
 
-Junfeng Liu*, Fan Wang*, Dingheng Mo, Siqiang Luo (*equal contribution) **SIGMOD 2024** [pdf](https://siqiangluo.com/docs/SIGMOD24_MOOSE_Camera___Junfeng___Fan.pdf)
+Junfeng Liu\*, Fan Wang\*, Dingheng Mo, Siqiang Luo (*equal contribution) **SIGMOD 2024** [pdf](https://siqiangluo.com/docs/SIGMOD24_MOOSE_Camera___Junfeng___Fan.pdf)
 
 ## Contact
 Please feel free to contact me if you have interest in collaboration or any questions regarding my work.
